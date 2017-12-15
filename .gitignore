@@ -1,3 +1,6 @@
+#/google-services.json
+/build
+
 #.gradle
 #/local.properties
 #/.idea/workspace.xml
@@ -96,4 +99,6 @@ hs_err_pid*
 
 *.DS_Store
 Status API Training Shop Blog About Pricing
-© 2015 GitHub, Inc. Terms Privacy Security Contact Help
+©
+
+src/main/res/xml/app_tracker.xml
